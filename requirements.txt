@@ -1,0 +1,7 @@
+aiofiles
+httpx
+pyuseragents
+bs4
+loguru
+tortoise-orm
+yaml
